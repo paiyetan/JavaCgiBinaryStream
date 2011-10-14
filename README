@@ -1,1 +1,14 @@
 Code snippets of web cgi programmes. Help to understand the interactions between http clients and servers.
+
+[Usage]
+
+Redhat-like Linux Distribution
+# cd /var/www/cgi-bin/
+# git clone git://github.com/weijianwen/JavaCgiBinaryStream.git jcgi
+(or, if you are my collaborators, USE: git clone git@github.com:weijianwen/JavaCgiBinaryStream.git jcgi )
+
+See the static index.html in your browser. Fix the perssion problems when needed.
+http://localhost/cgi-bin/jcgi/index.html
+
+Try some cgi by yourself.
+
