@@ -7,8 +7,5 @@ Redhat-like Linux Distribution
 # git clone git://github.com/weijianwen/JavaCgiBinaryStream.git jcgi
 (or, if you are my collaborators, USE: git clone git@github.com:weijianwen/JavaCgiBinaryStream.git jcgi )
 
-See the static index.html in your browser. Fix the perssion problems when needed.
-http://localhost/cgi-bin/jcgi/index.html
-
 Try some cgi by yourself.
 
