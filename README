@@ -7,5 +7,11 @@ Redhat-like Linux Distribution
 # git clone git://github.com/weijianwen/JavaCgiBinaryStream.git jcgi
 (or, if you are my collaborators, USE: git clone git@github.com:weijianwen/JavaCgiBinaryStream.git jcgi )
 
+[Browse index.html]
+http://localhost/cgi-bin/jcgi/index.html
+
+[cgihello] - Call cgihello to print "hello, world."
+http://localhost/cgi-bin/jcgi/cgihello
+
 Try some cgi by yourself.
 
