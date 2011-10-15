@@ -13,5 +13,12 @@ http://localhost/cgi-bin/jcgi/index.html
 [cgihello] - Call cgihello to print "hello, world."
 http://localhost/cgi-bin/jcgi/cgihello
 
+[cgiimage] - Call cigimage to load demo.jpg and transport it to the browser via HTTP
+http://localhost/cgi-bin/jcgi/cgiimage
+
 Try some cgi by yourself.
+
+Tips:
+Q: How to view the interaction process between web browser and HTTP server in Wireshark?
+A: Use this filter: " (ip.addr eq $IP_CLIENT) and (ip.addr eq $IP_SERVER) and http "
 
