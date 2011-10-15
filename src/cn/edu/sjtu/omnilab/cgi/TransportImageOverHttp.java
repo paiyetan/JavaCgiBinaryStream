@@ -22,7 +22,7 @@ public class TransportImageOverHttp {
 	
 	public void printHttpBody() {
 		System.out.print("<html>");
-		System.out.print("<a href=\"www.github.com\">");
+		System.out.print("<a href=\"http://www.github.com\">");
 		System.out.print("Click here to github");
 		System.out.print("</a>");
 		System.out.print("</html>");
